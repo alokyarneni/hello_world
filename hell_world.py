@@ -94,5 +94,3 @@ for app in apps:
             "status": app.status,
             "error": str(e)
         })
-# this is from test2
-a = [1,2,3]
